@@ -1,2 +1,2 @@
-# certificate
-public certificate 
+
+# NURIE.AI's official certificate issues
